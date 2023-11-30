@@ -50,10 +50,7 @@ sensor_msgs
 # Demo
 
 <p align="center">
-  <video width="50%" controls>
-    <source src="roomba_obstacle_avoidance/results/demo.mp4" type="video/mp4">
-    Your browser does not support the video tag.
-  </video>
+<img width="100%" alt="Result Video" src="https://github.com/SuryaVC/roomba_bot/blob/main/roomba_obstacle_avoidance/results/demo.gif">
 </p>
 
 
